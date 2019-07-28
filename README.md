@@ -1,4 +1,4 @@
-#WallPaper App React Native #Day2 
+# WallPaper App React Native #Day2 
 
 
 This is my first project for #100DaysOfCode challenge. It is a wallpaper that is inspired by Varun Nath's wallpaper app.
