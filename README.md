@@ -22,3 +22,10 @@ While building the app, I realised that watching a tutorial to build something i
 I made several mistakes and it was very frustrating dealing with bugs but now its done. Hope you all like it. 
 
 #100DaysOfCode
+
+Few ScreenShots
+![57GBeFzRDA4](https://user-images.githubusercontent.com/44807945/62005427-ab3e5600-b150-11e9-9690-eead24513dc4.jpg)
+![Screenshot_20190728-153557_Expo](https://user-images.githubusercontent.com/44807945/62005430-b5605480-b150-11e9-92d9-a4d1798b883a.jpg)
+![Screenshot_20190728-153603_Expo](https://user-images.githubusercontent.com/44807945/62005431-b5f8eb00-b150-11e9-94d6-d6feee72820b.jpg)
+![Screenshot_20190728-153613_Expo](https://user-images.githubusercontent.com/44807945/62005432-b5f8eb00-b150-11e9-8cd7-afe16fa00ceb.jpg)
+![Zn6AYIB6j-g](https://user-images.githubusercontent.com/44807945/62005433-b5f8eb00-b150-11e9-87e7-4d15afb1c9e2.jpg)
