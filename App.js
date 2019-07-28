@@ -194,7 +194,8 @@ handleShare=(img)=>{
 }
 
 loadNewImgs=()=>{
-  axios.get('https://api.unsplash.com/photos/random?count=10&client_id=b8d550f7d39de466959b71323278c395ec976d37c9c1ded31217d02c69c62a6a').then(data => {
+  let Access_Key='b8d550f7d39de466959b71323278c395ec976d37c9c1ded31217d02c69c62a6a'; //replace the Access Key here
+  axios.get('https://api.unsplash.com/photos/random?count=10&client_id='+Access_Key).then(data => {
     this.setState({ imgs: data.data , isLoading:false});
     if(this.state.isTapped){
       this.handlePress();
