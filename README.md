@@ -1,3 +1,6 @@
+#WallPaper App React Native #Day2 
+
+
 This is my first project for #100DaysOfCode challenge. It is a wallpaper that is inspired by Varun Nath's wallpaper app.
 Basically what it does is it displays you 10 wallpaper recommendations. You can tap on them and a toolbar will popup from where 
 you can share the wallpaper link, save the wallpaper to the gallery, or refresh to get new recommendations. It is built on React Native
